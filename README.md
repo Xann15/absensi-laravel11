@@ -36,6 +36,8 @@ This project was built using:
 
 | Feature                | Screenshot |
 |------------------------|------------|
+| **Login**         | ![Login](public/proof/login.png) |
+| **Register**         | ![Register](public/proof/register.png) |
 | **Dashboard**         | ![Dashboard](public/proof/dashboard.png) |
 | **Attendance**        | ![Attendance](public/proof/attendance.png) |
 | **Edit Attendance (Admin)** | ![Edit Attendance](public/proof/edit-attendace.png) |
