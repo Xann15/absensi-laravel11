@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/makeread.me">
-<img src="images/logo.png" alt="Logo" width="80" height="80">
+<img src="public/image.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">makeread.me</h3>
 <p align="center">
@@ -36,7 +36,7 @@ An awesome ReadMe Generator to Jumpstart your Projects!
 
 ## About The Project
 
-![Screenshot](images/demo.gif)
+![Screenshot](public/proof/dashboard.png)
 
 One of the challenges with building and contributing to open source software is that while many projects have amazing functionalities, they often miss out on reaching a wider audience due to lack of clear and user-friendly installation instructions. In addition, lack of efficient showcase of their use cases also contribute to the lower reach of these projects.
 
