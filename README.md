@@ -40,8 +40,8 @@ This project was built using:
 | **Register**         | ![Register](public/proof/register.png) |
 | **Dashboard**         | ![Dashboard](public/proof/dashboard.png) |
 | **Attendance**        | ![Attendance](public/proof/attendance.png) |
-| **Edit Attendance (Admin)** | ![Edit Attendance](public/proof/edit-attendace.png) |
-| **List Attendance (Admin)** | ![List Attendance](public/proof/list-attendace.png) |
+| **Edit Attendance (Admin)** | ![Edit Attendance](public/proof/edit-attendance.png) |
+| **List Attendance (Admin)** | ![List Attendance](public/proof/list-attendance.png) |
 | **Profile**           | ![Profile](public/proof/profile.png) |
 
 ## Getting Started
@@ -139,8 +139,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: pandjiealdino55@gmail.com
+- GitHub: [Xann15](https://github.com/Xann15)
 
 ## Acknowledgments
 
