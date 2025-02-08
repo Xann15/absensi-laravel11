@@ -61,8 +61,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Xann15/attendance-laravel11.git
-   cd attendance-laravel11
+   git clone https://github.com/Xann15/attendance.git
+   cd attendance
    ```
 
 2. **Install Dependencies**
