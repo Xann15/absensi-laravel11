@@ -99,7 +99,7 @@ Ensure you have the following installed:
 
 6. **Build Frontend Assets**
    ```sh
-   npm run dev
+   npm run build
    ```
 
 7. **Run the Application**
