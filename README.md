@@ -61,8 +61,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Xann15/attendance.git
-   cd attendance
+   git clone https://github.com/Xann15/attendance-app.git
+   cd attendance-app
    ```
 
 2. **Install Dependencies**
